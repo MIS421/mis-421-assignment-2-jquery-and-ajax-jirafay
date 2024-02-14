@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css" integrity="sha512-0s2J3ZP5bgSzt6kMbsi6XDjE0u48yqTYYM/969g/VWaisp3hQgvU2PV48/1L4mV6aCtU8MatU3TFKY6zjUf2Qw==" crossorigin="anonymous">
+    <title>Bama Bing</title>
+</head>
+
+<body>
+    <header>
+        <h1 id="bamaBling">Bama Bing</h1>
+    </header>
+
+    <main>
+        <div id="searchTitle">
+            <label for="query">Search</label>
+        </div>
+        <input type="text" id="query">
+        <div id="buttons">
+
+            <button type="button" class="btn btn-danger" onclick="apiSearch()">Search</button>
+            <button type="button" class="btn btn-danger" onclick="displayTime()">Show Time</button>
+            <button type="button" class="btn btn-danger" onclick="feelingLucky()">I'm Feeling Lucky</button>
+        </div>
+        <div id="searchResults"></div>
+        <div id="time"></div>
+
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" integrity="sha512-57oZ/vW8ANMjR/KQ6Be9v/+/h6bq9/l3f0Oc7vn6qMqyhvPd1cvKBRWWpzu0QoneImqr2SkmO4MSqU+RpHom3Q==" crossorigin="anonymous"></script>
+
+</body>
+
+</html>

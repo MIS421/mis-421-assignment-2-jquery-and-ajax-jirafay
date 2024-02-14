@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/script.js",
+      "PackagePath": "staticwebassets/script.js"
+    },
+    {
+      "Id": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.mis521-jirafay-search-api.props",
+      "PackagePath": "build\\mis521-jirafay-search-api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.mis521-jirafay-search-api.props",
+      "PackagePath": "buildMultiTargeting\\mis521-jirafay-search-api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.mis521-jirafay-search-api.props",
+      "PackagePath": "buildTransitive\\mis521-jirafay-search-api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.mis521-jirafay-search-api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

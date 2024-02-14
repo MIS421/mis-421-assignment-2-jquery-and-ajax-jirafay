@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "/AEIXXn7Dm8Ia8DVI4UguuqvdCJv4J0zZo2aDi6Pc0s=",
+  "Source": "mis521-jirafay-search-api",
+  "BasePath": "_content/mis521-jirafay-search-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mis521-jirafay-search-api/wwwroot",
+      "Source": "mis521-jirafay-search-api",
+      "ContentRoot": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/",
+      "BasePath": "_content/mis521-jirafay-search-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/index.html",
+      "SourceId": "mis521-jirafay-search-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/",
+      "BasePath": "_content/mis521-jirafay-search-api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/script.js",
+      "SourceId": "mis521-jirafay-search-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/",
+      "BasePath": "_content/mis521-jirafay-search-api",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    },
+    {
+      "Identity": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/style.css",
+      "SourceId": "mis521-jirafay-search-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/uzmaraja/Desktop/mis-421-assignment-2-jquery-and-ajax-jirafay/wwwroot/",
+      "BasePath": "_content/mis521-jirafay-search-api",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ]
+}

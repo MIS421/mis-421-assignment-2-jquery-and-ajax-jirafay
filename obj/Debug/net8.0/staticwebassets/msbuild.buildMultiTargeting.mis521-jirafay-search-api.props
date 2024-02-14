@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/mis521-jirafay-search-api.props" />
+</Project>

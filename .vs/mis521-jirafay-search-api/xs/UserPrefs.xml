@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B6560314-AF11-4F99-A69C-D3B108B0D75E}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mis521-jirafay-search-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/script.js">
+    <Files>
+      <File FileName="wwwroot/index.html" Line="16" Column="14" />
+      <File FileName="wwwroot/script.js" Line="65" Column="2" />
+      <File FileName="wwwroot/style.css" Line="68" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mis521-jirafay-search-api">
+            <Node name="mis521-jirafay-search-api">
+              <Node name="wwwroot" expanded="True">
+                <Node name="script.js" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

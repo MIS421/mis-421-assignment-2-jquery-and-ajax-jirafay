@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mis521-jirafay-search-api/1.0.0": {
+        "runtime": {
+          "mis521-jirafay-search-api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis521-jirafay-search-api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

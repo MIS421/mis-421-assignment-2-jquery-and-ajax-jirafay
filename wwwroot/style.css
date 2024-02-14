@@ -1,0 +1,82 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1678389541315-4f4f2e069ee2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+main {
+    max-width: 450px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+#searchTitle{
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+div#buttons{
+   text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+
+
+#searchResults {
+    display: none;
+    max-height: 300px; /* Set the maximum height of the box */
+    overflow-y: auto; /* Enable vertical scrolling */
+    border: 1px solid #ccc; /* Add a border for better visualization */
+    padding: 10px; /* Add some padding for better appearance */
+    visibility: hidden;
+}
+
+#time {
+    visibility: hidden;
+}
+
+/*#time {
+    display: block;
+    text-align: center;
+    margin-top: 20px;*/ /* Adjust the margin as needed */
+    /*padding: 10px;
+
+}*/
+
